@@ -3,4 +3,5 @@
 soeasylog-ui-front/node_modules/
 soeasylog-server/.idea/
 soeasylog-server/target/
+soeasylog-server/logs/
 soeasylog-trace/.idea/
